@@ -7,4 +7,5 @@ Kumpulan notebook dan eksperimen yang dibuat selama proses belajar Data Science.
   - `car_sales/` — Prediksi penjualan mobil menggunakan regresi linear.
 - `classification/` — Berisi eksperimen terkait regresi logistik, decision tree, dan metode klasifikasi lainnya.
   - `perbandingan_model_klasifikasi/` — Perbandingan model decision tree, SVM, regresi logistik, dan KNN dengan dataset water-potability.
-- `clustering/` — (Kosong, akan diisi nanti)
+- `clustering/` — Berisi eksperimen terkait clustering K-Means, dll.
+  - `customer-segmentation-penerapan-algoritma-k-means.ipynb/` Segmentasi customer dengan algoritma K-Means.
