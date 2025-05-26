@@ -76,7 +76,7 @@ Terdapat 4 klaster pelanggan yang diidentifikasi:
 
 ## File
 - `marketing_campaign.csv` : Dataset utama.
-- `customer_segmentation.ipynb` : Notebook dengan seluruh analisis.
+- `customer-segmentation-penerapan-algoritma-k-means.ipynb` : Notebook dengan seluruh analisis.
 - `README.md` : Deskripsi proyek.
 
 ## Pengembangan Selanjutnya
